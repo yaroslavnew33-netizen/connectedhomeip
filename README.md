@@ -6,11 +6,7 @@
 
 # Matter
 
-[![Builds](https://github.com/project-chip/connectedhomeip/workflows/Builds/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/build.yaml)
-
-**Builds**
-
-[![Android](https://github.com/project-chip/connectedhomeip/workflows/Android/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/android.yaml)
+[![Builds](https://github.com/project-chip/connectedhomeip/workflows/Builds/badge.svg)p/connectedhomeip/workflows/Android/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/android.yaml)
 [![Ameba](https://github.com/project-chip/connectedhomeip/workflows/Build%20example%20-%20Ameba/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-ameba.yaml)
 [![ASR](https://github.com/project-chip/connectedhomeip/workflows/Build%20example%20-%20ASR/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-asr.yaml)
 [![BouffaloLab](https://github.com/project-chip/connectedhomeip/workflows/Build%20example%20-%20BouffaloLab/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-bouffalolab.yaml)
@@ -22,8 +18,7 @@
 [![Infineon](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-infineon.yaml/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-infineon.yaml)
 [![i.MX Linux](https://github.com/project-chip/connectedhomeip/workflows/Build%20example%20-%20i.MX%20Linux/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-linux-imx.yaml)
 [![K32W with SE051](https://github.com/project-chip/connectedhomeip/workflows/Build%20example%20-%20K32W%20with%20SE051/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-k32w.yaml)
-[![Linux ARM](https://github.com/project-chip/connectedhomeip/workflows/Build%20example%20-%20Linux%20ARM/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-linux-arm.yaml)
-[![Linux Standalone](https://github.com/project-chip/connectedhomeip/workflows/Build%20example%20-%20Linux%20Standalone/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-linux-standalone.yaml)
+[![Linux ARM](https://github.com/project-chip/connectedhomeip/workflows/Build%20example%20-%20Linux%20ARM/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/eandalone/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-linux-standalone.yaml)
 [![nRF Connect SDK](https://github.com/project-chip/connectedhomeip/workflows/Build%20example%20-%20nRF%20Connect%20SDK/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-nrfconnect.yaml)
 [![QPG](https://github.com/project-chip/connectedhomeip/workflows/Build%20example%20-%20QPG/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-qpg.yaml)
 [![STM32](https://github.com/project-chip/connectedhomeip/workflows/Build%20example%20-%20stm32/badge.svg)](https://github.com/project-chip/connectedhomeip/actions/workflows/examples-stm32.yaml)
