@@ -9,7 +9,7 @@ Connectivity Standards Alliance hereby grants you a fully-paid, non-exclusive,
 nontransferable, worldwide, limited and revocable license (without the right to
 sublicense), under Connectivity Standards Alliance's applicable copyright
 rights, to view, download, save, reproduce and use the document solely for your
-own internal purposes and in accordance with the terms of the license set forth
+own intal purposes and in accordance with the terms of the license set forth
 herein. This license does not authorize you to, and you expressly warrant that
 you shall not: (a) permit others (outside your organization) to use this
 document; (b) post or publish this document; (c) modify, adapt, translate, or
@@ -82,19 +82,4 @@ Davis, CA 95616, USA
     <cluster id="0x0506" name="Media Playback" side="server">
       <mandatoryConform/>
     </cluster>
-    <cluster id="0x0507" name="Media Input" side="server">
-      <mandatoryConform>
-        <condition name="PhysicalInputs"/>
-      </mandatoryConform>
-    </cluster>
-    <cluster id="0x0508" name="Low Power" side="server">
-      <optionalConform/>
-    </cluster>
-    <cluster id="0x0509" name="Keypad Input" side="server">
-      <mandatoryConform/>
-    </cluster>
-    <cluster id="0x050B" name="Audio Output" side="server">
-      <optionalConform/>
-    </cluster>
-  </clusters>
-</deviceType>
+    <cluster 
