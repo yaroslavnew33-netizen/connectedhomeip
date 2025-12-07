@@ -101,19 +101,7 @@ Davis, CA 95616, USA
       <features>
         <feature code="" name="RID (RFID Credential)">
           <otherwiseConform>
-            <optionalConform>
-              <condition name="Zigbee"/>
-            </optionalConform>
-            <provisionalConform/>
-            <optionalConform/>
-          </otherwiseConform>
-        </feature>
-        <feature code="" name="LOG (Logging)">
-          <optionalConform>
-            <condition name="Zigbee"/>
-          </optionalConform>
-        </feature>
-        <feature code="" name="USR (User)">
+            <optionalConform
           <mandatoryConform>
             <andTerm>
               <condition name="Matter"/>
@@ -121,21 +109,10 @@ Davis, CA 95616, USA
                 <feature name="PIN"/>
                 <feature name="RID"/>
                 <feature name="FGP"/>
-                <feature name="FACE"/>
+  
               </orTerm>
             </andTerm>
-          </mandatoryConform>
-        </feature>
-        <feature code="" name="NOT (Notification)">
-          <optionalConform>
-            <condition name="Zigbee"/>
-          </optionalConform>
-        </feature>
-      </features>
-      <attributes>
-        <attribute code="0x0040" name="AlarmMask">
-          <optionalConform>
-            <condition name="Alarms"/>
+          </manda
           </optionalConform>
         </attribute>
         <attribute code="0x0041" name="KeypadOperationEventMask">
@@ -166,21 +143,4 @@ Davis, CA 95616, USA
         <attribute code="0x0046" name="RemoteProgrammingEventMask">
           <optionalConform>
             <condition name="Zigbee"/>
-          </optionalConform>
-        </attribute>
-        <attribute code="0x0047" name="RFIDProgrammingEventMask">
-          <optionalConform>
-            <condition name="Zigbee"/>
-          </optionalConform>
-        </attribute>
-      </attributes>
-      <commands>
-        <command id="0x0020" name="Operating Event Notification">
-          <optionalConform>
-            <condition name="Zigbee"/>
-          </optionalConform>
-        </command>
-      </commands>
-    </cluster>
-  </clusters>
-</deviceType>
+          </op
