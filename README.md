@@ -222,8 +222,4 @@ The Matter repository is structured as follows:
 | LICENSE            | Matter license file                                                                                                                                   |
 | REVIEWERS.md       | PR reviewers                                                                                                                                          |
 | gn_build.sh        | Build script for specific projects such as Android, EFR32, etc.                                                                                       |
-| README.md          | This file                                                                                                                                             |
-
-# License
-
-Matter is released under the [Apache 2.0 license](./LICENSE).
+| README.md          | This file                                                                                                         
